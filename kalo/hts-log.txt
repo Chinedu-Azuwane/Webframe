@@ -1,0 +1,316 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Dec 2023 10:50:51 at https://kahlo.qodeinteractive.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kahlo.qodeinteractive.com/ -O1 "C:\Users\hp\Desktop\Mine\art-loju" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:53:09	Error: 	"Not Found" (404) at link https://kahlo.qodeinteractive.com/xmlrpc.php?rsd (from https://kahlo.qodeinteractive.com/)
+10:53:09	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://kahlo.qodeinteractive.com/)
+11:02:24	Warning: 	Found for https://kahlo.qodeinteractive.com/checkout/
+11:02:24	Warning: 	File has moved from https://kahlo.qodeinteractive.com/checkout/ to https://kahlo.qodeinteractive.com/cart/
+11:04:51	Warning: 	Link https://kahlo.qodeinteractive.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+11:04:51	Error: 	"Bad Request" (400) at link https://kahlo.qodeinteractive.com/wp-admin/admin-ajax.php (from https://kahlo.qodeinteractive.com/)
+11:04:53	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2333
+11:04:53	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2333 to https://kahlo.qodeinteractive.com/our-locations/
+11:09:52	Error: 	"Bad Request" (400) at link https://kahlo.qodeinteractive.com/wp-admin/admin-ajax.php?action=rest-nonce (from https://kahlo.qodeinteractive.com/shop/)
+11:09:54	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=426
+11:09:54	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=426 to https://kahlo.qodeinteractive.com/exhibition-home/
+11:10:02	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1596
+11:10:02	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1596 to https://kahlo.qodeinteractive.com/art-gallery-simple/
+11:10:32	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1329
+11:10:32	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1329 to https://kahlo.qodeinteractive.com/event-category-list/
+11:11:01	Error: 	"Not Found" (404) at link https://kahlo.qodeinteractive.com/events-calendar/ (from https://kahlo.qodeinteractive.com/event-category-list/)
+11:11:19	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3078
+11:11:19	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3078 to https://kahlo.qodeinteractive.com/landing/
+11:11:19	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1794
+11:11:19	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1794 to https://kahlo.qodeinteractive.com/about-us/
+11:11:29	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1933
+11:11:29	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1933 to https://kahlo.qodeinteractive.com/what-we-do/
+11:11:47	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2056
+11:11:47	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2056 to https://kahlo.qodeinteractive.com/artists-interactive/
+11:11:47	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/event-item/test-2/
+11:11:47	Warning: 	File has moved from https://kahlo.qodeinteractive.com/event-item/test-2/ to https://kahlo.qodeinteractive.com/event-item/janice-stuarts-visaul-diary/
+11:11:47	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2231
+11:11:47	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2231 to https://kahlo.qodeinteractive.com/about-me/
+11:11:47	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2113
+11:11:47	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2113 to https://kahlo.qodeinteractive.com/our-artists/
+11:11:47	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2901
+11:11:47	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2901 to https://kahlo.qodeinteractive.com/blog-right-sidebar/
+11:12:16	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=4260
+11:12:16	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=4260 to https://kahlo.qodeinteractive.com/blog-left-sidebar/
+11:12:16	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=4262
+11:12:16	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=4262 to https://kahlo.qodeinteractive.com/blog-no-sidebar/
+11:12:16	Error: 	"Not Found" (404) at link https://kahlo.qodeinteractive.com/xmlrpc.php (from https://kahlo.qodeinteractive.com/living-and-making-in-art/)
+11:12:16	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2150
+11:12:16	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2150 to https://kahlo.qodeinteractive.com/living-and-making-in-art/
+11:12:22	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2882
+11:12:22	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2882 to https://kahlo.qodeinteractive.com/living-and-making-in-art-sphere/
+11:12:28	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2884
+11:12:28	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2884 to https://kahlo.qodeinteractive.com/visions-unbound-jose-oliver/
+11:12:29	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2893
+11:12:29	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2893 to https://kahlo.qodeinteractive.com/exploring-visual-art-by-jason/
+11:12:30	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2894
+11:12:30	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2894 to https://kahlo.qodeinteractive.com/inspiring-the-world-through-art/
+11:12:31	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2897
+11:12:31	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2897 to https://kahlo.qodeinteractive.com/where-art-transcendes/
+11:12:40	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5378
+11:12:40	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5378 to https://kahlo.qodeinteractive.com/investing-love-in-art/
+11:12:41	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2506
+11:12:41	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2506 to https://kahlo.qodeinteractive.com/working-hours/
+11:12:41	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2417
+11:12:41	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2417 to https://kahlo.qodeinteractive.com/contact-us/
+11:12:41	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=43
+11:12:41	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=43 to https://kahlo.qodeinteractive.com/event-item/julie-lane-panagamuwa-mixmedis-time/
+11:12:42	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=257
+11:12:42	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=257 to https://kahlo.qodeinteractive.com/events/
+11:13:34	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5516
+11:13:34	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5516 to https://kahlo.qodeinteractive.com/events/event-slider/
+11:13:34	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2979
+11:13:34	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2979 to https://kahlo.qodeinteractive.com/events/events-accordion/
+11:13:34	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5645
+11:13:34	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5645 to https://kahlo.qodeinteractive.com/events/simple-event/
+11:13:34	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2984
+11:13:34	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2984 to https://kahlo.qodeinteractive.com/events/event-types/
+11:13:35	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1950
+11:13:35	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1950 to https://kahlo.qodeinteractive.com/monthly-calendar/
+11:13:35	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1609
+11:13:35	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1609 to https://kahlo.qodeinteractive.com/event-item/chi-pole-club/
+11:13:35	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1376
+11:13:35	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1376 to https://kahlo.qodeinteractive.com/event-item/outstanding-linear-art/
+11:13:35	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1241
+11:13:35	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1241 to https://kahlo.qodeinteractive.com/event-item/abstract-art/
+11:13:35	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1244
+11:13:35	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1244 to https://kahlo.qodeinteractive.com/event-item/world-best-painters/
+11:13:35	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1202
+11:13:35	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1202 to https://kahlo.qodeinteractive.com/portfolio/standard/
+11:13:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1131
+11:13:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1131 to https://kahlo.qodeinteractive.com/portfolio/info-on-hover/
+11:14:04	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1145
+11:14:04	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1145 to https://kahlo.qodeinteractive.com/portfolio/portfolio-gallery/
+11:14:04	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=483
+11:14:04	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=483 to https://kahlo.qodeinteractive.com/portfolio-item/kunst/
+11:14:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=598
+11:14:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=598 to https://kahlo.qodeinteractive.com/portfolio-item/devoted-to-art/
+11:14:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=603
+11:14:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=603 to https://kahlo.qodeinteractive.com/portfolio-item/street-art/
+11:14:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=642
+11:14:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=642 to https://kahlo.qodeinteractive.com/portfolio-item/mestiere/
+11:14:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=673
+11:14:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=673 to https://kahlo.qodeinteractive.com/portfolio-item/visual-arts/
+11:14:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=699
+11:14:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=699 to https://kahlo.qodeinteractive.com/portfolio-item/concept-art/
+11:14:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1688
+11:14:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1688 to https://kahlo.qodeinteractive.com/product/brochure/
+11:15:46	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=9
+11:15:46	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=9 to https://kahlo.qodeinteractive.com/cart/
+11:15:46	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=11
+11:15:46	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=11 to https://kahlo.qodeinteractive.com/my-account/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1065
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1065 to https://kahlo.qodeinteractive.com/event-item/exibition-in-kahlo-museum/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1063
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1063 to https://kahlo.qodeinteractive.com/event-item/interactive-body-painting/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1066
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1066 to https://kahlo.qodeinteractive.com/event-item/fluid-reality-in-modern-art/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1080
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1080 to https://kahlo.qodeinteractive.com/event-item/photography-festival-taiwan/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1081
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1081 to https://kahlo.qodeinteractive.com/event-item/colorful-visions-belgrade-contest/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1082
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1082 to https://kahlo.qodeinteractive.com/event-item/minimalism-in-photo-art/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5487
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5487 to https://kahlo.qodeinteractive.com/event-item/urban-landscapes-inspires-creativity/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5489
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5489 to https://kahlo.qodeinteractive.com/event-item/body-art-exhibition/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5488
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5488 to https://kahlo.qodeinteractive.com/event-item/vibrant-sculptures-showcases-art/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5490
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5490 to https://kahlo.qodeinteractive.com/event-item/museums-cultural-tapestry-enthralls/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1148
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1148 to https://kahlo.qodeinteractive.com/event-item/national-geographic-photo-contest/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1149
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1149 to https://kahlo.qodeinteractive.com/event-item/state-of-mind-lisa-paris-2/
+11:15:49	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1150
+11:15:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1150 to https://kahlo.qodeinteractive.com/event-item/plural-visuals-by-korean-artist-2/
+11:16:01	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3055
+11:16:01	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3055 to https://kahlo.qodeinteractive.com/captivating-art-of-modern-century/
+11:16:04	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3056
+11:16:04	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3056 to https://kahlo.qodeinteractive.com/memories-of-great-artists/
+11:16:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3057
+11:16:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3057 to https://kahlo.qodeinteractive.com/dreams-and-reality/
+11:16:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3253
+11:16:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3253 to https://kahlo.qodeinteractive.com/masterminds-of-present-time/
+11:16:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3254
+11:16:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3254 to https://kahlo.qodeinteractive.com/synesthesia-by-aeron-oliver/
+11:16:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3252
+11:16:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3252 to https://kahlo.qodeinteractive.com/portrait-photo-contest/
+11:16:05	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1642
+11:16:05	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1642 to https://kahlo.qodeinteractive.com/product/chosen-memories/
+11:16:31	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=ae614c557843b1df326cb29c57225459&_wpnonce=649392fb43
+11:16:31	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=ae614c557843b1df326cb29c57225459&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/shop/?removed_item=1
+11:16:31	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1752
+11:16:31	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1752 to https://kahlo.qodeinteractive.com/product/hand-talks/
+11:17:00	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1753
+11:17:00	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1753 to https://kahlo.qodeinteractive.com/product/kontempo/
+11:17:43	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1754
+11:17:43	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1754 to https://kahlo.qodeinteractive.com/product/lucia-terchan/
+11:18:23	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=231141b34c82aa95e48810a9d1b33a79&_wpnonce=649392fb43
+11:18:23	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=231141b34c82aa95e48810a9d1b33a79&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/shop/?removed_item=1
+11:18:23	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1755
+11:18:23	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1755 to https://kahlo.qodeinteractive.com/product/toyohas-signature/
+11:18:57	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=d8d31bd778da8bdd536187c36e48892b&_wpnonce=649392fb43
+11:18:57	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=d8d31bd778da8bdd536187c36e48892b&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/shop/?removed_item=1
+11:18:57	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1756
+11:18:57	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1756 to https://kahlo.qodeinteractive.com/product/autumn-etude/
+11:19:41	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=cefab442b1728a7c1b49c63f1a55781c&_wpnonce=649392fb43
+11:19:41	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=cefab442b1728a7c1b49c63f1a55781c&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/shop/?removed_item=1
+11:19:42	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1757
+11:19:42	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1757 to https://kahlo.qodeinteractive.com/product/lucia-terchan-2/
+11:20:19	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=d2cdf047a6674cef251d56544a3cf029&_wpnonce=649392fb43
+11:20:19	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=d2cdf047a6674cef251d56544a3cf029&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/shop/?removed_item=1
+11:20:19	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1758
+11:20:19	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1758 to https://kahlo.qodeinteractive.com/product/georgias-beauty/
+11:20:49	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=2612aa892d962d6f8056b195ca6e550d&_wpnonce=649392fb43
+11:20:49	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=2612aa892d962d6f8056b195ca6e550d&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/shop/?removed_item=1
+11:20:53	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/shop/page/1/
+11:20:53	Warning: 	File has moved from https://kahlo.qodeinteractive.com/shop/page/1/ to https://kahlo.qodeinteractive.com/shop/
+11:20:59	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1761
+11:20:59	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1761 to https://kahlo.qodeinteractive.com/product/overtone/
+11:21:23	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1760
+11:21:23	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1760 to https://kahlo.qodeinteractive.com/product/harmony/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=405
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=405 to https://kahlo.qodeinteractive.com/event-item/tarek-atoui-waters-witne-collaps-koning-monkeys/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1601
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1601 to https://kahlo.qodeinteractive.com/event-item/giny-sack-lover/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1608
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1608 to https://kahlo.qodeinteractive.com/event-item/gordon-surreal/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1610
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1610 to https://kahlo.qodeinteractive.com/event-item/tim-lore-divine/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1615
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1615 to https://kahlo.qodeinteractive.com/event-item/lilly-classical/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5537
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5537 to https://kahlo.qodeinteractive.com/event-item/timeless-body-movement/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1242
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1242 to https://kahlo.qodeinteractive.com/event-item/timeless-art-coming-soon/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1243
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1243 to https://kahlo.qodeinteractive.com/event-item/body-art/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1246
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1246 to https://kahlo.qodeinteractive.com/event-item/flowers-paint/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1245
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1245 to https://kahlo.qodeinteractive.com/event-item/japanese-design-muesum/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1261
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1261 to https://kahlo.qodeinteractive.com/event-item/sculpture-philosophy/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3461
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3461 to https://kahlo.qodeinteractive.com/event-item/artist-daylie-routines/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3462
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3462 to https://kahlo.qodeinteractive.com/event-item/fantastic-and-visualy-profound/
+11:21:48	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3463
+11:21:48	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3463 to https://kahlo.qodeinteractive.com/event-item/exhibition-by-worlds-best-artists/
+11:22:07	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2880
+11:22:07	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2880 to https://kahlo.qodeinteractive.com/the-museum-showcase/
+11:22:07	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2881
+11:22:07	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2881 to https://kahlo.qodeinteractive.com/beyond-canvas-art-exhibition/
+11:22:07	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2883
+11:22:07	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2883 to https://kahlo.qodeinteractive.com/spectrum-of-creativity-art-show/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=2898
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=2898 to https://kahlo.qodeinteractive.com/captured-essence-a-visual-narrative/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=253
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=253 to https://kahlo.qodeinteractive.com/event-item/janice-stuarts-visaul-diary/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/shop/https://kahlo.qodeinteractive.com/events/https://kahlo.qodeinteractive.com/events/
+11:22:09	Warning: 	Redirected link is identical because of 'URL Hack' option: https://kahlo.qodeinteractive.com/shop/https://kahlo.qodeinteractive.com/events/https://kahlo.qodeinteractive.com/events/ and https://kahlo.qodeinteractive.com/shop/https:/kahlo.qodeinteractive.com/events/https:/kahlo.qodeinteractive.com/events/
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/shop/https://kahlo.qodeinteractive.com/events/https://kahlo.qodeinteractive.com/events/ to https://kahlo.qodeinteractive.com/shop/https:/kahlo.qodeinteractive.com/events/https:/kahlo.qodeinteractive.com/events/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=254
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=254 to https://kahlo.qodeinteractive.com/event-item/art-design-video-contest/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/events/https://kahlo.qodeinteractive.com/events/
+11:22:09	Warning: 	Redirected link is identical because of 'URL Hack' option: https://kahlo.qodeinteractive.com/events/https://kahlo.qodeinteractive.com/events/ and https://kahlo.qodeinteractive.com/events/https:/kahlo.qodeinteractive.com/events/
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/events/https://kahlo.qodeinteractive.com/events/ to https://kahlo.qodeinteractive.com/events/https:/kahlo.qodeinteractive.com/events/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=466
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=466 to https://kahlo.qodeinteractive.com/event-item/state-of-mind-lisa-paris/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=467
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=467 to https://kahlo.qodeinteractive.com/event-item/plural-visuals-by-korean-artist/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=470
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=470 to https://kahlo.qodeinteractive.com/event-item/jack-minor-artificial-cells/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=469
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=469 to https://kahlo.qodeinteractive.com/event-item/tommy-life-and-microscop-photos/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=468
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=468 to https://kahlo.qodeinteractive.com/event-item/pink-world-jessy-brazil/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=713
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=713 to https://kahlo.qodeinteractive.com/event-item/apstract-art-contest-berlin/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=723
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=723 to https://kahlo.qodeinteractive.com/event-item/collection-of-painted-souls-prague/
+11:22:09	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=659
+11:22:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=659 to https://kahlo.qodeinteractive.com/portfolio/
+11:22:14	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5433
+11:22:14	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5433 to https://kahlo.qodeinteractive.com/portfolio-item/narrative/
+11:22:14	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5438
+11:22:14	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5438 to https://kahlo.qodeinteractive.com/portfolio-item/identity/
+11:22:14	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5439
+11:22:14	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5439 to https://kahlo.qodeinteractive.com/portfolio-item/performance/
+11:23:10	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=11c484ea9305ea4c7bb6b2e6d570d466&_wpnonce=649392fb43
+11:23:10	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=11c484ea9305ea4c7bb6b2e6d570d466&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/brochure/?removed_item=1
+11:23:11	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1759
+11:23:11	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1759 to https://kahlo.qodeinteractive.com/product/framed-print/
+11:23:40	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=ba1b3eba322eab5d895aa3023fe78b9c&_wpnonce=649392fb43
+11:23:40	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=ba1b3eba322eab5d895aa3023fe78b9c&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/brochure/?removed_item=1
+11:23:58	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=3217
+11:23:58	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=3217 to https://kahlo.qodeinteractive.com/ilustrated-minds-by-osaka-nabuko/
+11:24:00	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=7283518d47a05a09d33779a17adf1707&_wpnonce=649392fb43
+11:24:00	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=7283518d47a05a09d33779a17adf1707&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/chosen-memories/?removed_item=1
+11:24:02	Warning: 	Moved Permanently for kahlo.qodeinteractive.com/robots.txt
+11:24:02	Warning: 	Redirected link is identical because of 'URL Hack' option: kahlo.qodeinteractive.com/robots.txt and https://kahlo.qodeinteractive.com/robots.txt
+11:24:02	Warning: 	Warning moved treated for kahlo.qodeinteractive.com/robots.txt (real one is https://kahlo.qodeinteractive.com/robots.txt)
+11:24:03	Warning: 	Moved Permanently for kahlo.qodeinteractive.com/shop/?removed_item=1
+11:24:03	Warning: 	Redirected link is identical because of 'URL Hack' option: kahlo.qodeinteractive.com/shop/?removed_item=1 and https://kahlo.qodeinteractive.com/shop/?removed_item=1
+11:24:03	Warning: 	File has moved from kahlo.qodeinteractive.com/shop/?removed_item=1 to https://kahlo.qodeinteractive.com/shop/?removed_item=1
+11:24:03	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=81c650caac28cdefce4de5ddc18befa0&_wpnonce=649392fb43
+11:24:03	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=81c650caac28cdefce4de5ddc18befa0&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/hand-talks/?removed_item=1
+11:24:03	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=ae614c557843b1df326cb29c57225459&_wpnonce=649392fb43
+11:24:03	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=ae614c557843b1df326cb29c57225459&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/hand-talks/?add-to-cart=1642
+11:24:09	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?remove_item=e22dd5dabde45eda5a1a67772c8e25dd&_wpnonce=649392fb43
+11:24:09	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?remove_item=e22dd5dabde45eda5a1a67772c8e25dd&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/lucia-terchan/?removed_item=1
+11:24:16	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=231141b34c82aa95e48810a9d1b33a79&_wpnonce=649392fb43
+11:24:16	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=231141b34c82aa95e48810a9d1b33a79&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/toyohas-signature/?add-to-cart=1761
+11:24:33	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=d8d31bd778da8bdd536187c36e48892b&_wpnonce=649392fb43
+11:24:33	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=d8d31bd778da8bdd536187c36e48892b&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/autumn-etude/?add-to-cart=1759
+11:24:58	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=cefab442b1728a7c1b49c63f1a55781c&_wpnonce=649392fb43
+11:24:58	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=cefab442b1728a7c1b49c63f1a55781c&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/lucia-terchan-2/?add-to-cart=1756
+11:25:08	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=d2cdf047a6674cef251d56544a3cf029&_wpnonce=649392fb43
+11:25:08	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=d2cdf047a6674cef251d56544a3cf029&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/georgias-beauty/?add-to-cart=1754
+11:25:14	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=2612aa892d962d6f8056b195ca6e550d&_wpnonce=649392fb43
+11:25:14	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=2612aa892d962d6f8056b195ca6e550d&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/shop/page/2/?add-to-cart=1759
+11:25:38	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1570
+11:25:38	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1570 to https://kahlo.qodeinteractive.com/event-item/digital-visuals/
+11:25:38	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1569
+11:25:38	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1569 to https://kahlo.qodeinteractive.com/event-item/sound-of-emotion/
+11:25:38	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=1542
+11:25:38	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=1542 to https://kahlo.qodeinteractive.com/event-item/music-and-art-performance/
+11:25:39	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/?p=5441
+11:25:39	Warning: 	File has moved from https://kahlo.qodeinteractive.com/?p=5441 to https://kahlo.qodeinteractive.com/portfolio-item/perception/
+11:25:40	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/product-tag/exibitions/page/1/
+11:25:40	Warning: 	File has moved from https://kahlo.qodeinteractive.com/product-tag/exibitions/page/1/ to https://kahlo.qodeinteractive.com/product-tag/exibitions/
+11:25:42	Warning: 	Moved Permanently for https://kahlo.qodeinteractive.com/product-tag/fine-arts/page/1/
+11:25:42	Warning: 	File has moved from https://kahlo.qodeinteractive.com/product-tag/fine-arts/page/1/ to https://kahlo.qodeinteractive.com/product-tag/fine-arts/
+11:25:43	Warning: 	Moved Permanently for kahlo.qodeinteractive.com/product/brochure/?removed_item=1
+11:25:43	Warning: 	Redirected link is identical because of 'URL Hack' option: kahlo.qodeinteractive.com/product/brochure/?removed_item=1 and https://kahlo.qodeinteractive.com/product/brochure/?removed_item=1
+11:25:43	Warning: 	File has moved from kahlo.qodeinteractive.com/product/brochure/?removed_item=1 to https://kahlo.qodeinteractive.com/product/brochure/?removed_item=1
+11:25:43	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=11c484ea9305ea4c7bb6b2e6d570d466&_wpnonce=649392fb43
+11:25:43	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=11c484ea9305ea4c7bb6b2e6d570d466&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/framed-print/?add-to-cart=1688
+11:25:50	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=ba1b3eba322eab5d895aa3023fe78b9c&_wpnonce=649392fb43
+11:25:50	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=ba1b3eba322eab5d895aa3023fe78b9c&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/brochure/?add-to-cart=1761
+11:25:50	Warning: 	Moved Permanently for kahlo.qodeinteractive.com/product/chosen-memories/?removed_item=1
+11:25:50	Warning: 	Redirected link is identical because of 'URL Hack' option: kahlo.qodeinteractive.com/product/chosen-memories/?removed_item=1 and https://kahlo.qodeinteractive.com/product/chosen-memories/?removed_item=1
+11:25:50	Warning: 	File has moved from kahlo.qodeinteractive.com/product/chosen-memories/?removed_item=1 to https://kahlo.qodeinteractive.com/product/chosen-memories/?removed_item=1
+11:25:50	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=7283518d47a05a09d33779a17adf1707&_wpnonce=649392fb43
+11:25:50	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=7283518d47a05a09d33779a17adf1707&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/chosen-memories/?add-to-cart=1760
+11:25:50	Warning: 	Moved Permanently for kahlo.qodeinteractive.com/product/hand-talks/?removed_item=1
+11:25:50	Warning: 	Redirected link is identical because of 'URL Hack' option: kahlo.qodeinteractive.com/product/hand-talks/?removed_item=1 and https://kahlo.qodeinteractive.com/product/hand-talks/?removed_item=1
+11:25:50	Warning: 	File has moved from kahlo.qodeinteractive.com/product/hand-talks/?removed_item=1 to https://kahlo.qodeinteractive.com/product/hand-talks/?removed_item=1
+11:25:51	Warning: 	Moved Permanently for kahlo.qodeinteractive.com/product/lucia-terchan/?removed_item=1
+11:25:51	Warning: 	Redirected link is identical because of 'URL Hack' option: kahlo.qodeinteractive.com/product/lucia-terchan/?removed_item=1 and https://kahlo.qodeinteractive.com/product/lucia-terchan/?removed_item=1
+11:25:51	Warning: 	File has moved from kahlo.qodeinteractive.com/product/lucia-terchan/?removed_item=1 to https://kahlo.qodeinteractive.com/product/lucia-terchan/?removed_item=1
+11:25:51	Warning: 	Found for https://kahlo.qodeinteractive.com/cart/?undo_item=e22dd5dabde45eda5a1a67772c8e25dd&_wpnonce=649392fb43
+11:25:51	Warning: 	File has moved from https://kahlo.qodeinteractive.com/cart/?undo_item=e22dd5dabde45eda5a1a67772c8e25dd&_wpnonce=649392fb43 to http://kahlo.qodeinteractive.com/product/lucia-terchan/?add-to-cart=1758
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 minutes 10 seconds : 1315 links scanned, 1163 files written (98798919 bytes overall) [31976793 bytes received at 15154 bytes/sec], 80962542 bytes transferred using HTTP compression in 971 files, ratio 15%, 7.6 requests per connection
+(6 errors, 299 warnings, 0 messages)

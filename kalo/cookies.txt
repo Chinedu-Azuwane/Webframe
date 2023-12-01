@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kahlo.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+kahlo.qodeinteractive.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_87184d4e1f7ffaab91cae44f331795cb	t_3be242e81bccd0f9bf84942757df61%7C%7C1701597205%7C%7C1701593605%7C%7C727b4ed614373eebece65f2242712f7d
+kahlo.qodeinteractive.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	4faea12339e7487c1473c6d6898d0d78
+
