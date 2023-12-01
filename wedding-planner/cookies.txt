@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wedding.nicdark.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+wedding.nicdark.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_b22abc70862dfee8baaf0452c1d4956f	t_c0a42aa5cb634ea00137742716563d%7C%7C1701634059%7C%7C1701630459%7C%7C857c5eba5ff00b530ff0bd5a484f5767
+wedding.nicdark.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3a658b9c56727b189e48a8c68d4e93ae
+
