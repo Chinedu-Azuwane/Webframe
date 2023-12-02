@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+art.seatheme.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_fbf1741e55f0516a70368d129b179643	ae128bfe560adaa94dcaec9a0130a1dc%7C%7C1701711033%7C%7C1701707433%7C%7C2ecc86ac933b9aa95c446d7ad3652526
+art.seatheme.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+art.seatheme.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	dc447b3140692db5640b34cd5504f08d
+
